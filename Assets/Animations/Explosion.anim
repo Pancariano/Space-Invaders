@@ -7,7 +7,7 @@ AnimationClip:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Explosion
-  serializedVersion: 7
+  serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
   m_UseHighQualityCurve: 1
@@ -18,19 +18,17 @@ AnimationClip:
   m_ScaleCurves: []
   m_FloatCurves: []
   m_PPtrCurves:
-  - serializedVersion: 2
-    curve:
+  - curve:
     - time: 0
-      value: {fileID: 489060847, guid: b386f6c5e6523c54d906875a3fd1f6dd, type: 3}
+      value: {fileID: 909531013, guid: 310e3e0c4f53beb4ea18bc9901760001, type: 3}
     - time: 0.083333336
-      value: {fileID: -590839262, guid: b386f6c5e6523c54d906875a3fd1f6dd, type: 3}
+      value: {fileID: 624576054, guid: 310e3e0c4f53beb4ea18bc9901760001, type: 3}
     - time: 0.16666667
-      value: {fileID: -1036584066, guid: b386f6c5e6523c54d906875a3fd1f6dd, type: 3}
+      value: {fileID: 51274802, guid: 310e3e0c4f53beb4ea18bc9901760001, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
     script: {fileID: 0}
-    flags: 2
   m_SampleRate: 12
   m_WrapMode: 0
   m_Bounds:
@@ -45,12 +43,10 @@ AnimationClip:
       typeID: 212
       customType: 23
       isPPtrCurve: 1
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 489060847, guid: b386f6c5e6523c54d906875a3fd1f6dd, type: 3}
-    - {fileID: -590839262, guid: b386f6c5e6523c54d906875a3fd1f6dd, type: 3}
-    - {fileID: -1036584066, guid: b386f6c5e6523c54d906875a3fd1f6dd, type: 3}
+    - {fileID: 909531013, guid: 310e3e0c4f53beb4ea18bc9901760001, type: 3}
+    - {fileID: 624576054, guid: 310e3e0c4f53beb4ea18bc9901760001, type: 3}
+    - {fileID: 51274802, guid: 310e3e0c4f53beb4ea18bc9901760001, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
